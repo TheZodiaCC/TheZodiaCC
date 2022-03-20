@@ -6,5 +6,5 @@
 - :keyboard: Currently programming using Python / MicroPython, HTML5, CSS and JavaScript.
 - :spider_web: Creating Flask Apps & Microservices.
 - :video_game: Games Modder & Developer.
-- :calendar: Writing code since 2019.
+- :calendar: Writing code since 2020.
 ---
